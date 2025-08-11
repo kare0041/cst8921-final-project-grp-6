@@ -1,0 +1,9 @@
+{
+	"name": "adf-nyctaxi-prod",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b542d6dd-8b0d-4fc3-97eb-434c59d4c0c0",
+		"tenantId": "ec1bd924-0a6a-4aa9-aa89-c980316c0449"
+	}
+}
